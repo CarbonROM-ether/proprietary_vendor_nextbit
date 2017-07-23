@@ -495,7 +495,6 @@ PRODUCT_PACKAGES += \
     shutdownlistener \
     CNEService \
     QtiTetherService \
-    dpmserviceapp \
     qcrilmsgtunnel \
     ims \
     imssettings \
